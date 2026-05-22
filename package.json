@@ -1,5 +1,5 @@
 {
-  "name": "pi-auto-session-name",
+  "name": "@therynamo/pi-auto-session-name",
   "version": "0.1.0",
   "description": "Pi extension that auto-generates a short working title for each session based on the conversation",
   "keywords": [
