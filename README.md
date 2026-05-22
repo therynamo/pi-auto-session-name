@@ -4,6 +4,8 @@ Automatically generate a short working title for your Pi sessions based on the c
 
 When you start a new session and finish your first turn, this extension asks the session model to summarize the conversation into a concise, specific title — so your sessions are always named after what you actually did instead of staying as "New Session".
 
+![pi-auto-session-name](static/screenshot.png)
+
 ## Usage
 
 ### Install
