@@ -1,0 +1,17 @@
+{
+  "name": "pi-auto-session-name",
+  "version": "0.1.0",
+  "description": "Pi extension that auto-generates a short working title for each session based on the conversation",
+  "keywords": [
+    "pi-package"
+  ],
+  "peerDependencies": {
+    "@earendil-works/pi-ai": "*",
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ]
+  }
+}
